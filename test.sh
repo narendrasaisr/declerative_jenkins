@@ -1,1 +1,2 @@
-echo "Inside of the test.sh"
+echo "Inside of the script"
+echo "Demo Value : $DEMO"
